@@ -1,0 +1,10 @@
+# Project exclude paths
+/out/
+
+# Maven output files
+/target/
+/dependency-reduced-pom.xml
+
+# Editor specific
+/nb-configuration.xml
+/nbproject/
